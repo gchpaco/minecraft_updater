@@ -10,6 +10,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"strings"
 	"sync"
 )
 
@@ -27,6 +28,10 @@ type Release struct {
 }
 
 func releasesFor(mod *Mod) (releases []*Release, err error) {
+	if !strings.HasPrefix(mod.curseForgeURL, "http://minecraft.curseforge.com/") {
+		log.Println("Don't understand non curseforge URLs yet")
+		return make([]*Release, 0), nil
+	}
 	trueUrl, e := url.Parse(mod.curseForgeURL)
 	if e != nil {
 		err = e
@@ -116,6 +121,9 @@ func reportOn(mod *Mod, out chan *Release) (err error) {
 	}
 	for _, r := range releases {
 		if r.minecraftVersion != mod.minecraftVersion {
+			continue
+		}
+		if r.maturity == "Alpha" {
 			continue
 		}
 		if r.filename == mod.currentlyInstalled {
