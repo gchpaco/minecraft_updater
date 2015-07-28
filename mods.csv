@@ -27,7 +27,8 @@ Binnie's Mods,1.7.10,binnie-mods-2.0-pre12.jar,http://minecraft.curseforge.com/m
 Biomes O' Plenty,1.7.10,BiomesOPlenty-1.7.10-2.1.0.1237-universal.jar,http://minecraft.curseforge.com/mc-mods/220318-biomes-o-plenty/files
 Blood Magic,1.7.10,BloodMagic-1.7.10-1.3.3-4.jar,http://minecraft.curseforge.com/mc-mods/224791-blood-magic/files
 Botania,1.7.10,Botania r1.7-204.jar,http://minecraft.curseforge.com/mc-mods/225643-botania/files
-Buildcraft,1.7.10,,http://www.mod-buildcraft.com/pages/download.html
+Buildcraft,1.7.10,buildcraft-7.0.6.jar,http://minecraft.curseforge.com/mc-mods/61811-buildcraft/files
+Buildcraft Compat,1.7.10,Buildcraft Compat 7.0.5,http://minecraft.curseforge.com/mc-mods/233140-buildcraft-compat/files
 Carpenter's Blocks,1.7.10,v3.3.6 - Minecraft 1.7.10,http://minecraft.curseforge.com/mc-mods/228932-carpenters-blocks/files
 ChickenChunks,1.7.10,,http://chickenbones.net/Pages/links.html
 Chisel 2,1.7.10,Chisel 2 - 2.3.10,http://minecraft.curseforge.com/mc-mods/225236-chisel-2/files
@@ -110,8 +111,10 @@ NotEnoughResources,1.7.10,NotEnoughResources-1.7.10-0.1.0.101.jar,http://minecra
 OpenBlocks,1.7.10,OpenBlocks-1.7.10-1.4.3.jar,http://minecraft.curseforge.com/mc-mods/228816-openblocks/files
 OpenComputers,1.7.10,OpenComputers-MC1.7.10-1.5.12.26-universal.jar,http://minecraft.curseforge.com/mc-mods/223008-opencomputers/files
 OpenEye,1.7.10,,http://openeye.openmods.info/download
-OpenModsLib,1.7.10,,http://openmods.info
-OpenPeripheral,1.7.10,,http://openmods.info
+OpenModsLib,1.7.10,OpenModsLib-1.7.10-0.7.3.jar,http://minecraft.curseforge.com/mc-mods/228815-openmodslib/files
+OpenPeripheral Addons,1.7.10,OpenPeripheralAddons-1.7.10-0.3.1.jar,http://minecraft.curseforge.com/mc-mods/228818-openperipheraladdons/files
+OpenPeripheral Core,1.7.10,OpenPeripheralCore-1.7.10-1.1.1.jar,http://minecraft.curseforge.com/mc-mods/228817-openperipheralcore/files
+OpenPeripheral Integration,1.7.10,OpenPeripheralIntegration-1.7.10-0.2.2.jar,http://minecraft.curseforge.com/mc-mods/228819-openperipheral-integration/files
 OreDictionaryConverter,1.7.10,Ore Dictionary Converter 1.6.1,http://minecraft.curseforge.com/mc-mods/227564-oredictionaryconverter/files
 Pam's HarvestCraft,1.7.10,Pam's HarvestCraft 1.7.10i.jar,http://minecraft.curseforge.com/mc-mods/221857-pams-harvestcraft/files
 Pneumaticraft,1.7.10,PneumaticCraft-1.7.10-1.7.0-74-universal.jar,http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/files
@@ -137,7 +140,7 @@ RWG,1.7.10,,http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-m
 Sanguimancy,1.7.10,Sanguimancy-1.7.10-1.1.9-29.jar,http://minecraft.curseforge.com/mc-mods/223722-sanguimancy/files
 Simply JetPacks,1.7.10,SimplyJetpacks-MC1.7.10-1.4.1.jar,http://minecraft.curseforge.com/mc-mods/79325-simply-jetpacks/files
 SSR (Soul Shards Reborn),1.7.10,SSR-RC3,https://www.dropbox.com/sh/s3q3q8bod8kjlmk/AABWf4CgW1o7RxQ3VZfMeY9wa?dl=0
-Statues,1.7.10,,http://openeye.openmods.info/mod/statues
+Statues,1.7.10,2.1.4,http://openeye.openmods.info/mod/statues
 Steve's Addons,1.7.10,StevesAddons-1.7.10-0.10.12.jar,http://minecraft.curseforge.com/mc-mods/226067-steves-addons/files
 Steve's Carts,1.7.10,StevesCarts2.0.0.b18.jar,http://minecraft.curseforge.com/mc-mods/228625-steves-carts-2/files
 Steve's Factory Manager,1.7.10,StevesFactoryManagerA93.jar,http://minecraft.curseforge.com/mc-mods/228626-steves-factory-manager/files
